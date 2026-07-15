@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+build/
+
+# Diagnostic log written at runtime
+*.log
+
+# IDE / OS
+.vs/
+*.user
+Thumbs.db
